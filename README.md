@@ -3,22 +3,22 @@
 -----------------------------------------------
 <table style="width:100%">
 <tr>
- <td><i>{</i> --   I am a Data Anaylst and Computer Programmer</td>
+ <td>--   I am a Data Anaylst and Computer Programmer</td>
 </tr>
 <tr>
- <td>{ --   I am most often using SQL Server, Power BI, and R in my current role</td>
+ <td>--   I am most often using SQL Server, Power BI, and R in my current role</td>
 </tr>
 <tr>
- <td><i>{</i> --   I am a spreadsheet freak - I love VBA</td>
+ <td>--   I am a spreadsheet freak - I love VBA</td>
 </tr>
 <tr>
- <td>{ --   I very much enjoy what I do. And the agency I work for is fantsastic</td>
+ <td>--   I very much enjoy what I do. And the agency I work for is fantsastic</td>
 </tr>
 <tr>
- <td><i>|</i></td>
+ <td></td>
 </tr>
 <tr>
- <td>{ --   I am new to using GitHub</td>
+ <td>--   I am new to using GitHub</td>
 </tr>
 <tr>
 </table>
