@@ -1,27 +1,10 @@
-## Ian Canaday  @  [The Arc Mid-Hudson](https://www.arcmh.org/)
+## Ian Canaday  @  The Arc Mid-Hudson
 
------------------------------------------------
-<table style="width:100%">
-<tr>
- <td>--   I am a Data Anaylst and Computer Programmer</td>
-</tr>
-<tr>
- <td>--   I am most often using SQL Server, Power BI, and R in my current role</td>
-</tr>
-<tr>
- <td>--   I am a spreadsheet freak - I love VBA</td>
-</tr>
-<tr>
- <td>--   I very much enjoy what I do. And the agency I work for is fantsastic</td>
-</tr>
-<tr>
- <td></td>
-</tr>
-<tr>
- <td>--   I am new to using GitHub</td>
-</tr>
-<tr>
-</table>
+#### I am a Data Anaylst and Computer Programmer
+
+#### I am most often using SQL Server, Power BI, and R in my current role
+#### Though I do know other languages as well =)
+
 
 <!--
 **ian-canaday-arcmh/ian-canaday-arcmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
