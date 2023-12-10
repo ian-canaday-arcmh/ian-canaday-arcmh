@@ -1,12 +1,21 @@
-## Ian Canaday  @  The Arc Mid-Hudson
-
-#### I am a Data Anaylst and Computer Programmer
-
-#### I am most often using SQL Server, Power BI, and R in my current role
-#### Though I do know other languages as well =)
+### Ian Canaday  @  The Arc Mid-Hudson
+---
+I am a Data Anaylst and Computer Programmer. Currently, I most frequently use:
+- Azure Data Studio
+  -   SQL Server
+  -   PL/SQL (via OPENQUERY)
+- Excel
+  -   VBA
+  -   Office.js (learning)
+- Power BI
+  -   M Query
+  -   DAX
+- PowerShell
+- R
 
 
 <!--
+` SELECT * FROM welligent.DailyLogDataFull ` (CODE!)
 **ian-canaday-arcmh/ian-canaday-arcmh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
